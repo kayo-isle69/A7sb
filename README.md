@@ -5,6 +5,14 @@ A clean, single-file currency converter built for the Algerian market. Converts 
 
 ---
 
+[
+
+![Open App](https://img.shields.io/badge/Open%20App-A7sb-c8973a?style=for-the-badge)
+
+](https://kayo-isle69.github.io/A7sb/)
+
+---
+
 ## Features
 
 - **Live rates** via [Frankfurter API](https://frankfurter.dev) (free, no API key required)
